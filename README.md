@@ -1,7 +1,7 @@
-## Proyecto Cocina para M8 en DAW
+# Proyecto Cocina para M8 en DAW
 Proyecto colaborativo de Goizane, David y Lucas
 
-# Pasos a seguir
+## Pasos a seguir
 Provocamos situaciones reales de modificación de proyecto a través de funcionalidades y features
 - Iniciar el proyecto en git y hacer fork del proyecto líder
 -	Hacer cambios (commit)
@@ -15,7 +15,7 @@ Provocamos situaciones reales de modificación de proyecto a través de funciona
 -	Adjunte documentación .md a su proyecto
 -	Documente todo el proceso secuencialmente, es mejor explicar el proceso que tener un número excesivo de capturas, ayudan mucho a los git logs.
 
-# Reglas
+## Reglas
 -	Hay que vigilar los conflictos creados
 -	Todos pueden hacer cambios y subir las modificaciones con la supervisión del líder de grupo.
 -	La práctica finaliza cuando todo el mundo ha participado y los contenidos son coherentes.
